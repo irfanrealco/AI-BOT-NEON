@@ -6,7 +6,7 @@ REGION="me-central1"
 SERVICE_NAME="arqos-bot"
 
 echo "═══════════════════════════════════════"
-echo "  ARQOS v2.0 — Cloud Run Deployment"
+echo "  ARQOS v2.1 — Cloud Run Deployment"
 echo "═══════════════════════════════════════"
 
 # Set project
